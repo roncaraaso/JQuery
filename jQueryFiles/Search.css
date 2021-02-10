@@ -1,0 +1,14 @@
+body{
+    background-image: url(Pic/104815.jpg);
+}
+#searchLabel{
+    text-align: center;
+    width: 100%;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#label{
+  font-size: large;
+}
+
+

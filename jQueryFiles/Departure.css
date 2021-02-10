@@ -1,0 +1,24 @@
+.depureture{
+ 
+display:flex;
+
+
+text-align: center;
+padding-left: 40%;
+
+}
+.Searchbtn{
+    float:right;
+  
+}
+#header{
+    text-shadow: 220px;
+ 
+}
+body{
+    background-color: rgb(218, 230, 229);
+}
+a{
+    text-decoration: none;
+  color: white;
+  }
